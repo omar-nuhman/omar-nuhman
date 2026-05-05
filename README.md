@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # Hi, I'm Omar Nuhman
 
 Backend Engineer | AI Enthusiast | Builder of Practical Systems
